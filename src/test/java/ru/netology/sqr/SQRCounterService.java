@@ -1,6 +1,6 @@
-package ru.netology.sqr.services;
+package ru.netology.sqr;
 
-public class SQRCounter {
+public class SQRCounterService {
     public int sqrofCount(int min, int max) {
         int Sqr = 0;
         for (int i = 10; i <= 99; i++) {

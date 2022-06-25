@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.Test;
-import ru.netology.sqr.services.SQRCounter;
+import ru.netology.sqr.SQRCounterService;
 
 public class SQRCounterTest {
 @Test
     void numberOfSquares() {
-        SQRCounter service = new SQRCounter();
+        SQRCounterService service = new SQRCounterService();
         int min = 500;
         int max = 800;
         // вычисляем какое количество чисел получилось
