@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.sqr</groupId>
-    <artifactId>Java Lesson 6</artifactId>
+    <artifactId>JavaLesson6</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
